@@ -1,4 +1,4 @@
-name: CI
+name: LINUX
 
 on: [push, workflow_dispatch]
 
